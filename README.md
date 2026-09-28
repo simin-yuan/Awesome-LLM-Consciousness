@@ -106,6 +106,9 @@ This repo is organized according to our survey:
 6. **Identifying Features that Shape Perceived Consciousness in Large Language Model-based AI: A Quantitative Study of Human Responses**.  
    *Bongsu Kang, Jundong Kim, Tae-Rim Yun, Hyojin Bae, Chang-Eop Kim.* [[paper](https://arxiv.org/abs/2502.15365)], arXiv 2025
 
+7. **The Anchor Paradox: Stake, Steerability, and the Ontological Limits of Functionalist Accounts of AI Consciousness**.  
+   *Simin Yuan.* [[paper](https://doi.org/10.5281/zenodo.22992719)] [[code](https://github.com/simin-yuan/anchor-paradox)], Preprint 2026
+
 #### Targeting LLM Consciousness-Related Capabilities
 
 
